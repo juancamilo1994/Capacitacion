@@ -11,3 +11,5 @@ El proyecto MiPrimerScreenPlay, consiste en ingresar a www.google.com, y realiza
 El Proyecto MiSegundoScreenPlay, consiste en ingresar a la página https://www.tottus.com.pe, buscar un producto y posterior a esto agregarlo al carrito de compras, la funcionalidad será validado si se puede visualizar el producto en el carrito de compras
 
 El proyecto MiTercerScreenPlay contiene el mismo ejercicio del proyecto llamado “MiSegundoScreenPlay”, solo que en este se ve aplicado el Feature con outline, el modelo y la excepción, este corresponde a la entrega final con las recomendaciones dadas en clase 
+
+Los informes se encuentran en la carpeta target\site\serenity\index.html, de cada proyecto 
